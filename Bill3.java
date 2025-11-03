@@ -9,7 +9,7 @@ public class Bill3 {
 		double a = 3;
 		double check = bill / a ;
 		check = Math.ceil(check);
-		 System.out.println( "Dear " + name3 + ", " + name2 + " and " + name1 + ": pay " + check + "shekels each.");
+		 System.out.println( "Dear " + name3 + ", " + name2 + " and " + name1 + ": pay " + check + " shekels each.");
 	    
 	}
 }
