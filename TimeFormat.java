@@ -50,11 +50,11 @@ public class TimeFormat {
 		   {
 			if(minutes >=10)
 			{
-			System.out.println("0:" + minutes + " am" );
+			System.out.println("0:" + minutes + " AM" );
 		   }
 		else
         {
-		   System.out.println("0:0" + minutes + " am" );
+		   System.out.println("0:0" + minutes + " AM" );
 
 		}
 	}
